@@ -2,4 +2,3 @@
 
  Oh, jeepers! :ghost:
  
- You just found a program that shows spooky messages with the intent to give you the creeps!
